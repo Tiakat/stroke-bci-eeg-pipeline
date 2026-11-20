@@ -37,7 +37,7 @@ Each external dataset isolates one aspect the stroke data lack. **Attempted** mo
 ## Notebooks
 | Notebook | Content | Rendered |
 |---|---|---|
-| [`01_pipeline_single_patient.ipynb`](notebooks/01_pipeline_single_patient.ipynb) | Every processing step on one stroke patient, with the rationale for each parameter | [HTML](notebooks/html/01_pipeline_single_patient.html) |
+| [`01_pipeline_single_patient.ipynb`](Notebook 01, single patient) | Every processing step on one stroke patient, with the rationale for each parameter | [HTML](notebooks/html/01_pipeline_single_patient.html) |
 | [`02_group_analysis.ipynb`](notebooks/02_group_analysis.ipynb) | Eight research questions on 47 stroke patients | [HTML](notebooks/html/02_group_analysis.html) |
 | [`03_cross_dataset_replication.ipynb`](notebooks/03_cross_dataset_replication.ipynb) | Identical pipeline on SCI, healthy and benchmark data | [HTML](notebooks/html/03_cross_dataset_replication.html) |
 | [`04_advanced_eeg_analyses.ipynb`](notebooks/04_advanced_eeg_analyses.ipynb) | ICA, FOOOF, BSI/DAR, wPLI, cluster permutation, MRCP, reliability, learning curves, transfer learning, EEGNet | [HTML](notebooks/html/04_advanced_eeg_analyses.html) |

@@ -1,0 +1,617 @@
+dataset,subject,task,population,hand,role,n_move,n_rest,hemisphere,electrode,erd_db,dataset_key
+bnci2014,A01,imagery,healthy,left,left_hand,72,72,ipsi,C3,-0.7198867585803015,bnci2014
+bnci2014,A01,imagery,healthy,left,left_hand,72,72,contra,C4,-1.1789259053824885,bnci2014
+bnci2014,A01,imagery,healthy,right,right_hand,71,71,ipsi,C4,-1.3003556436731323,bnci2014
+bnci2014,A01,imagery,healthy,right,right_hand,71,71,contra,C3,-1.1811676333203103,bnci2014
+bnci2014,A02,imagery,healthy,left,left_hand,72,72,ipsi,C3,0.5213766598770775,bnci2014
+bnci2014,A02,imagery,healthy,left,left_hand,72,72,contra,C4,0.563596598741043,bnci2014
+bnci2014,A02,imagery,healthy,right,right_hand,72,72,ipsi,C4,1.1411816774415584,bnci2014
+bnci2014,A02,imagery,healthy,right,right_hand,72,72,contra,C3,0.7099663814407542,bnci2014
+bnci2014,A03,imagery,healthy,left,left_hand,72,72,ipsi,C3,-3.2072431691646663,bnci2014
+bnci2014,A03,imagery,healthy,left,left_hand,72,72,contra,C4,-3.1300680732701203,bnci2014
+bnci2014,A03,imagery,healthy,right,right_hand,72,72,ipsi,C4,-2.2827390292025918,bnci2014
+bnci2014,A03,imagery,healthy,right,right_hand,72,72,contra,C3,-4.979078245684061,bnci2014
+bnci2014,A04,imagery,healthy,left,left_hand,72,72,ipsi,C3,-0.7696382433628202,bnci2014
+bnci2014,A04,imagery,healthy,left,left_hand,72,72,contra,C4,-0.21999505663428565,bnci2014
+bnci2014,A04,imagery,healthy,right,right_hand,72,72,ipsi,C4,0.4803526717037343,bnci2014
+bnci2014,A04,imagery,healthy,right,right_hand,72,72,contra,C3,-0.7323059067735116,bnci2014
+bnci2014,A05,imagery,healthy,left,left_hand,72,72,ipsi,C3,-1.4333811435888677,bnci2014
+bnci2014,A05,imagery,healthy,left,left_hand,72,72,contra,C4,-0.8035927399884635,bnci2014
+bnci2014,A05,imagery,healthy,right,right_hand,72,72,ipsi,C4,-0.5061950061892873,bnci2014
+bnci2014,A05,imagery,healthy,right,right_hand,72,72,contra,C3,-0.8005519801636218,bnci2014
+bnci2014,A06,imagery,healthy,left,left_hand,72,72,ipsi,C3,-0.23149310816636515,bnci2014
+bnci2014,A06,imagery,healthy,left,left_hand,72,72,contra,C4,-1.4437079038271605,bnci2014
+bnci2014,A06,imagery,healthy,right,right_hand,71,71,ipsi,C4,-0.3279179963444001,bnci2014
+bnci2014,A06,imagery,healthy,right,right_hand,71,71,contra,C3,-1.0343097405364254,bnci2014
+bnci2014,A07,imagery,healthy,left,left_hand,72,72,ipsi,C3,-3.4700848254391836,bnci2014
+bnci2014,A07,imagery,healthy,left,left_hand,72,72,contra,C4,-3.4158116661663485,bnci2014
+bnci2014,A07,imagery,healthy,right,right_hand,72,72,ipsi,C4,-3.8093782754187444,bnci2014
+bnci2014,A07,imagery,healthy,right,right_hand,72,72,contra,C3,-3.5443603648587185,bnci2014
+bnci2014,A08,imagery,healthy,left,left_hand,72,72,ipsi,C3,-1.0893772155682413,bnci2014
+bnci2014,A08,imagery,healthy,left,left_hand,72,72,contra,C4,-2.228228268613659,bnci2014
+bnci2014,A08,imagery,healthy,right,right_hand,72,72,ipsi,C4,-0.26545465188450024,bnci2014
+bnci2014,A08,imagery,healthy,right,right_hand,72,72,contra,C3,-2.089942373946112,bnci2014
+bnci2014,A09,imagery,healthy,left,left_hand,72,72,ipsi,C3,-5.562746679439243,bnci2014
+bnci2014,A09,imagery,healthy,left,left_hand,72,72,contra,C4,-6.353286279897876,bnci2014
+bnci2014,A09,imagery,healthy,right,right_hand,72,72,ipsi,C4,-0.9711963695276893,bnci2014
+bnci2014,A09,imagery,healthy,right,right_hand,72,72,contra,C3,-2.4677410459773697,bnci2014
+physionet,S001,execution,healthy,left,left_hand,23,44,ipsi,C3,-0.42493592170339767,physionet_exec
+physionet,S001,execution,healthy,left,left_hand,23,44,contra,C4,-1.3388456937662063,physionet_exec
+physionet,S001,execution,healthy,right,right_hand,22,44,ipsi,C4,-0.6054058371084103,physionet_exec
+physionet,S001,execution,healthy,right,right_hand,22,44,contra,C3,-0.8667877299219029,physionet_exec
+physionet,S002,execution,healthy,left,left_hand,22,43,ipsi,C3,-1.1802567354836135,physionet_exec
+physionet,S002,execution,healthy,left,left_hand,22,43,contra,C4,-1.4506713600781573,physionet_exec
+physionet,S002,execution,healthy,right,right_hand,21,43,ipsi,C4,-0.029895582023424794,physionet_exec
+physionet,S002,execution,healthy,right,right_hand,21,43,contra,C3,-1.4090991280929188,physionet_exec
+physionet,S003,execution,healthy,left,left_hand,22,45,ipsi,C3,0.2950912648310222,physionet_exec
+physionet,S003,execution,healthy,left,left_hand,22,45,contra,C4,-0.13472132960050232,physionet_exec
+physionet,S003,execution,healthy,right,right_hand,23,45,ipsi,C4,-0.2396568574115321,physionet_exec
+physionet,S003,execution,healthy,right,right_hand,23,45,contra,C3,0.0027999183644666914,physionet_exec
+physionet,S004,execution,healthy,left,left_hand,22,45,ipsi,C3,-3.3558341451704266,physionet_exec
+physionet,S004,execution,healthy,left,left_hand,22,45,contra,C4,-2.7877325961682153,physionet_exec
+physionet,S004,execution,healthy,right,right_hand,23,45,ipsi,C4,-1.698429144351099,physionet_exec
+physionet,S004,execution,healthy,right,right_hand,23,45,contra,C3,-3.6271875695720013,physionet_exec
+physionet,S005,execution,healthy,left,left_hand,23,43,ipsi,C3,-3.0298146766929257,physionet_exec
+physionet,S005,execution,healthy,left,left_hand,23,43,contra,C4,-2.993252960306396,physionet_exec
+physionet,S005,execution,healthy,right,right_hand,22,43,ipsi,C4,-2.681767616557309,physionet_exec
+physionet,S005,execution,healthy,right,right_hand,22,43,contra,C3,-2.825355689825688,physionet_exec
+physionet,S006,execution,healthy,left,left_hand,22,45,ipsi,C3,-1.032517595306004,physionet_exec
+physionet,S006,execution,healthy,left,left_hand,22,45,contra,C4,-0.9563355290068287,physionet_exec
+physionet,S006,execution,healthy,right,right_hand,23,45,ipsi,C4,-0.7552102865738775,physionet_exec
+physionet,S006,execution,healthy,right,right_hand,23,45,contra,C3,-0.9608478455496972,physionet_exec
+physionet,S007,execution,healthy,left,left_hand,23,45,ipsi,C3,-1.2162058899961892,physionet_exec
+physionet,S007,execution,healthy,left,left_hand,23,45,contra,C4,-2.800945266861703,physionet_exec
+physionet,S007,execution,healthy,right,right_hand,22,45,ipsi,C4,-1.4313392070393327,physionet_exec
+physionet,S007,execution,healthy,right,right_hand,22,45,contra,C3,-2.978500148954364,physionet_exec
+physionet,S008,execution,healthy,left,left_hand,22,45,ipsi,C3,-1.3679988804918963,physionet_exec
+physionet,S008,execution,healthy,left,left_hand,22,45,contra,C4,-1.0576279688244838,physionet_exec
+physionet,S008,execution,healthy,right,right_hand,23,45,ipsi,C4,-1.1520466356082437,physionet_exec
+physionet,S008,execution,healthy,right,right_hand,23,45,contra,C3,-1.3179832561885618,physionet_exec
+physionet,S009,execution,healthy,left,left_hand,23,45,ipsi,C3,-1.4737857356332995,physionet_exec
+physionet,S009,execution,healthy,left,left_hand,23,45,contra,C4,-1.1156459638491611,physionet_exec
+physionet,S009,execution,healthy,right,right_hand,22,45,ipsi,C4,-1.0563435422733036,physionet_exec
+physionet,S009,execution,healthy,right,right_hand,22,45,contra,C3,-1.2433948311627319,physionet_exec
+physionet,S010,execution,healthy,left,left_hand,24,45,ipsi,C3,-1.5750400556390431,physionet_exec
+physionet,S010,execution,healthy,left,left_hand,24,45,contra,C4,-2.0300935462832115,physionet_exec
+physionet,S010,execution,healthy,right,right_hand,21,45,ipsi,C4,-0.47923692864163314,physionet_exec
+physionet,S010,execution,healthy,right,right_hand,21,45,contra,C3,-1.3646008751526928,physionet_exec
+physionet,S011,execution,healthy,left,left_hand,22,45,ipsi,C3,-0.5511124278812574,physionet_exec
+physionet,S011,execution,healthy,left,left_hand,22,45,contra,C4,-0.5290314036417243,physionet_exec
+physionet,S011,execution,healthy,right,right_hand,23,45,ipsi,C4,-0.4780302899606603,physionet_exec
+physionet,S011,execution,healthy,right,right_hand,23,45,contra,C3,-0.6007912249286029,physionet_exec
+physionet,S012,execution,healthy,left,left_hand,24,45,ipsi,C3,-0.7223237732765675,physionet_exec
+physionet,S012,execution,healthy,left,left_hand,24,45,contra,C4,-1.382676968858707,physionet_exec
+physionet,S012,execution,healthy,right,right_hand,21,45,ipsi,C4,-0.820087056231884,physionet_exec
+physionet,S012,execution,healthy,right,right_hand,21,45,contra,C3,-0.6431666345288889,physionet_exec
+physionet,S013,execution,healthy,left,left_hand,24,45,ipsi,C3,-1.791356420685677,physionet_exec
+physionet,S013,execution,healthy,left,left_hand,24,45,contra,C4,-2.319176758108945,physionet_exec
+physionet,S013,execution,healthy,right,right_hand,21,45,ipsi,C4,-1.9321117684999223,physionet_exec
+physionet,S013,execution,healthy,right,right_hand,21,45,contra,C3,-2.2906340952499527,physionet_exec
+physionet,S014,execution,healthy,left,left_hand,22,45,ipsi,C3,-2.3711218578020876,physionet_exec
+physionet,S014,execution,healthy,left,left_hand,22,45,contra,C4,-2.6703788109795568,physionet_exec
+physionet,S014,execution,healthy,right,right_hand,23,45,ipsi,C4,-1.4810694350057219,physionet_exec
+physionet,S014,execution,healthy,right,right_hand,23,45,contra,C3,-1.485295845822865,physionet_exec
+physionet,S015,execution,healthy,left,left_hand,22,44,ipsi,C3,-1.5124772526410624,physionet_exec
+physionet,S015,execution,healthy,left,left_hand,22,44,contra,C4,-2.1265061200904967,physionet_exec
+physionet,S015,execution,healthy,right,right_hand,22,44,ipsi,C4,-2.4280306940157637,physionet_exec
+physionet,S015,execution,healthy,right,right_hand,22,44,contra,C3,-1.557272984768101,physionet_exec
+physionet,S016,execution,healthy,left,left_hand,23,45,ipsi,C3,-1.4673109020120734,physionet_exec
+physionet,S016,execution,healthy,left,left_hand,23,45,contra,C4,-1.8618686970684095,physionet_exec
+physionet,S016,execution,healthy,right,right_hand,22,45,ipsi,C4,-0.8980095578731806,physionet_exec
+physionet,S016,execution,healthy,right,right_hand,22,45,contra,C3,-1.1866551282145998,physionet_exec
+physionet,S017,execution,healthy,left,left_hand,23,45,ipsi,C3,-0.8843185868117054,physionet_exec
+physionet,S017,execution,healthy,left,left_hand,23,45,contra,C4,-1.3553577187705557,physionet_exec
+physionet,S017,execution,healthy,right,right_hand,22,45,ipsi,C4,-1.0018373553779547,physionet_exec
+physionet,S017,execution,healthy,right,right_hand,22,45,contra,C3,-0.2757650224449826,physionet_exec
+physionet,S018,execution,healthy,left,left_hand,22,45,ipsi,C3,-2.234597775875038,physionet_exec
+physionet,S018,execution,healthy,left,left_hand,22,45,contra,C4,-2.2825033961068364,physionet_exec
+physionet,S018,execution,healthy,right,right_hand,23,45,ipsi,C4,-1.7444134980110881,physionet_exec
+physionet,S018,execution,healthy,right,right_hand,23,45,contra,C3,-1.7457769371868004,physionet_exec
+physionet,S019,execution,healthy,left,left_hand,23,43,ipsi,C3,-0.27877413292952014,physionet_exec
+physionet,S019,execution,healthy,left,left_hand,23,43,contra,C4,-1.1763780250045563,physionet_exec
+physionet,S019,execution,healthy,right,right_hand,21,42,ipsi,C4,0.17590583106567692,physionet_exec
+physionet,S019,execution,healthy,right,right_hand,21,42,contra,C3,-1.0338480430777075,physionet_exec
+physionet,S020,execution,healthy,left,left_hand,21,45,ipsi,C3,-1.8500018063587653,physionet_exec
+physionet,S020,execution,healthy,left,left_hand,21,45,contra,C4,-2.12609939918071,physionet_exec
+physionet,S020,execution,healthy,right,right_hand,24,45,ipsi,C4,-2.108302036314882,physionet_exec
+physionet,S020,execution,healthy,right,right_hand,24,45,contra,C3,-1.756402764915439,physionet_exec
+physionet,S021,execution,healthy,left,left_hand,24,45,ipsi,C3,-2.6273433229239274,physionet_exec
+physionet,S021,execution,healthy,left,left_hand,24,45,contra,C4,-4.002580962380193,physionet_exec
+physionet,S021,execution,healthy,right,right_hand,21,45,ipsi,C4,-3.2715036817925203,physionet_exec
+physionet,S021,execution,healthy,right,right_hand,21,45,contra,C3,-3.574346336141101,physionet_exec
+physionet,S022,execution,healthy,left,left_hand,23,45,ipsi,C3,-1.0767615988610402,physionet_exec
+physionet,S022,execution,healthy,left,left_hand,23,45,contra,C4,-0.38496541920123306,physionet_exec
+physionet,S022,execution,healthy,right,right_hand,22,45,ipsi,C4,-0.1581806036400124,physionet_exec
+physionet,S022,execution,healthy,right,right_hand,22,45,contra,C3,-1.1205171001466674,physionet_exec
+physionet,S023,execution,healthy,left,left_hand,22,45,ipsi,C3,-1.1799020234873403,physionet_exec
+physionet,S023,execution,healthy,left,left_hand,22,45,contra,C4,-2.255611018194834,physionet_exec
+physionet,S023,execution,healthy,right,right_hand,23,45,ipsi,C4,-2.2111391285228343,physionet_exec
+physionet,S023,execution,healthy,right,right_hand,23,45,contra,C3,-1.8475088870150103,physionet_exec
+physionet,S024,execution,healthy,left,left_hand,22,42,ipsi,C3,-1.4519046464336327,physionet_exec
+physionet,S024,execution,healthy,left,left_hand,22,42,contra,C4,-0.7056951588748106,physionet_exec
+physionet,S024,execution,healthy,right,right_hand,22,43,ipsi,C4,-0.9018724304530501,physionet_exec
+physionet,S024,execution,healthy,right,right_hand,22,43,contra,C3,-1.1079622950437873,physionet_exec
+physionet,S025,execution,healthy,left,left_hand,23,45,ipsi,C3,-2.7873243853114715,physionet_exec
+physionet,S025,execution,healthy,left,left_hand,23,45,contra,C4,-2.848956594272405,physionet_exec
+physionet,S025,execution,healthy,right,right_hand,22,45,ipsi,C4,-2.585870067081917,physionet_exec
+physionet,S025,execution,healthy,right,right_hand,22,45,contra,C3,-3.3819099674474984,physionet_exec
+physionet,S026,execution,healthy,left,left_hand,23,45,ipsi,C3,-0.703683056222193,physionet_exec
+physionet,S026,execution,healthy,left,left_hand,23,45,contra,C4,-1.1430810714185213,physionet_exec
+physionet,S026,execution,healthy,right,right_hand,22,45,ipsi,C4,-1.5577799250392665,physionet_exec
+physionet,S026,execution,healthy,right,right_hand,22,45,contra,C3,-1.183721277283869,physionet_exec
+physionet,S027,execution,healthy,left,left_hand,23,45,ipsi,C3,-4.072989725741181,physionet_exec
+physionet,S027,execution,healthy,left,left_hand,23,45,contra,C4,-2.6896531142920033,physionet_exec
+physionet,S027,execution,healthy,right,right_hand,22,45,ipsi,C4,-2.399680052347204,physionet_exec
+physionet,S027,execution,healthy,right,right_hand,22,45,contra,C3,-3.9240457282241614,physionet_exec
+physionet,S028,execution,healthy,left,left_hand,23,45,ipsi,C3,-2.0939964361808627,physionet_exec
+physionet,S028,execution,healthy,left,left_hand,23,45,contra,C4,-2.4562531415182676,physionet_exec
+physionet,S028,execution,healthy,right,right_hand,22,45,ipsi,C4,-2.158880311366733,physionet_exec
+physionet,S028,execution,healthy,right,right_hand,22,45,contra,C3,-2.6031309081504617,physionet_exec
+physionet,S029,execution,healthy,left,left_hand,22,44,ipsi,C3,-3.263367204863332,physionet_exec
+physionet,S029,execution,healthy,left,left_hand,22,44,contra,C4,-4.547143983312356,physionet_exec
+physionet,S029,execution,healthy,right,right_hand,23,44,ipsi,C4,-3.753276283866853,physionet_exec
+physionet,S029,execution,healthy,right,right_hand,23,44,contra,C3,-3.715156924981713,physionet_exec
+physionet,S030,execution,healthy,left,left_hand,22,44,ipsi,C3,-2.85000415110904,physionet_exec
+physionet,S030,execution,healthy,left,left_hand,22,44,contra,C4,-2.0806181620493014,physionet_exec
+physionet,S030,execution,healthy,right,right_hand,23,44,ipsi,C4,-1.670360891463627,physionet_exec
+physionet,S030,execution,healthy,right,right_hand,23,44,contra,C3,-3.1037454795673014,physionet_exec
+physionet,S031,execution,healthy,left,left_hand,23,45,ipsi,C3,-1.808714884878988,physionet_exec
+physionet,S031,execution,healthy,left,left_hand,23,45,contra,C4,-1.0359585235778646,physionet_exec
+physionet,S031,execution,healthy,right,right_hand,22,45,ipsi,C4,0.5105700546182312,physionet_exec
+physionet,S031,execution,healthy,right,right_hand,22,45,contra,C3,-1.0829989313435817,physionet_exec
+physionet,S032,execution,healthy,left,left_hand,23,45,ipsi,C3,-0.7991657482462244,physionet_exec
+physionet,S032,execution,healthy,left,left_hand,23,45,contra,C4,-0.8155117715417859,physionet_exec
+physionet,S032,execution,healthy,right,right_hand,22,45,ipsi,C4,-0.2569576861674072,physionet_exec
+physionet,S032,execution,healthy,right,right_hand,22,45,contra,C3,-1.6085494051410798,physionet_exec
+physionet,S033,execution,healthy,left,left_hand,21,45,ipsi,C3,-2.9073402704009332,physionet_exec
+physionet,S033,execution,healthy,left,left_hand,21,45,contra,C4,-4.226993327435089,physionet_exec
+physionet,S033,execution,healthy,right,right_hand,24,45,ipsi,C4,-3.836105230758573,physionet_exec
+physionet,S033,execution,healthy,right,right_hand,24,45,contra,C3,-3.012610302785479,physionet_exec
+physionet,S034,execution,healthy,left,left_hand,23,45,ipsi,C3,-3.6975997707959785,physionet_exec
+physionet,S034,execution,healthy,left,left_hand,23,45,contra,C4,-3.5568009229590736,physionet_exec
+physionet,S034,execution,healthy,right,right_hand,22,45,ipsi,C4,-2.4991607855850617,physionet_exec
+physionet,S034,execution,healthy,right,right_hand,22,45,contra,C3,-3.2933695575710864,physionet_exec
+physionet,S035,execution,healthy,left,left_hand,21,45,ipsi,C3,-1.3010508178429347,physionet_exec
+physionet,S035,execution,healthy,left,left_hand,21,45,contra,C4,-1.9726636742265669,physionet_exec
+physionet,S035,execution,healthy,right,right_hand,24,45,ipsi,C4,-0.9538193672054618,physionet_exec
+physionet,S035,execution,healthy,right,right_hand,24,45,contra,C3,-2.154900785664413,physionet_exec
+physionet,S036,execution,healthy,left,left_hand,23,45,ipsi,C3,-2.0945096882299197,physionet_exec
+physionet,S036,execution,healthy,left,left_hand,23,45,contra,C4,-2.394725609147823,physionet_exec
+physionet,S036,execution,healthy,right,right_hand,22,45,ipsi,C4,-0.8873477785753003,physionet_exec
+physionet,S036,execution,healthy,right,right_hand,22,45,contra,C3,-1.7840162148491778,physionet_exec
+physionet,S037,execution,healthy,left,left_hand,22,45,ipsi,C3,-2.2791199724103706,physionet_exec
+physionet,S037,execution,healthy,left,left_hand,22,45,contra,C4,-2.273631845438473,physionet_exec
+physionet,S037,execution,healthy,right,right_hand,22,45,ipsi,C4,-2.812206178733021,physionet_exec
+physionet,S037,execution,healthy,right,right_hand,22,45,contra,C3,-2.9658846363338576,physionet_exec
+physionet,S039,execution,healthy,left,left_hand,23,45,ipsi,C3,-1.1532814629891064,physionet_exec
+physionet,S039,execution,healthy,left,left_hand,23,45,contra,C4,-2.146021493607666,physionet_exec
+physionet,S039,execution,healthy,right,right_hand,22,45,ipsi,C4,-0.5172173060294405,physionet_exec
+physionet,S039,execution,healthy,right,right_hand,22,45,contra,C3,-1.973833665181104,physionet_exec
+physionet,S040,execution,healthy,left,left_hand,23,45,ipsi,C3,-0.654225790949905,physionet_exec
+physionet,S040,execution,healthy,left,left_hand,23,45,contra,C4,-0.8480954120665807,physionet_exec
+physionet,S040,execution,healthy,right,right_hand,22,45,ipsi,C4,-0.3727801865308322,physionet_exec
+physionet,S040,execution,healthy,right,right_hand,22,45,contra,C3,-0.7696027516108472,physionet_exec
+physionet,S041,execution,healthy,left,left_hand,22,45,ipsi,C3,-2.5605303699075854,physionet_exec
+physionet,S041,execution,healthy,left,left_hand,22,45,contra,C4,-2.098108177277176,physionet_exec
+physionet,S041,execution,healthy,right,right_hand,23,45,ipsi,C4,-0.5194535302281089,physionet_exec
+physionet,S041,execution,healthy,right,right_hand,23,45,contra,C3,-1.560649644906409,physionet_exec
+physionet,S042,execution,healthy,left,left_hand,22,45,ipsi,C3,-2.9670439557172124,physionet_exec
+physionet,S042,execution,healthy,left,left_hand,22,45,contra,C4,-5.982735113695679,physionet_exec
+physionet,S042,execution,healthy,right,right_hand,23,45,ipsi,C4,-2.56717349774096,physionet_exec
+physionet,S042,execution,healthy,right,right_hand,23,45,contra,C3,-4.713725905367951,physionet_exec
+physionet,S043,execution,healthy,left,left_hand,22,45,ipsi,C3,-2.0301660337069016,physionet_exec
+physionet,S043,execution,healthy,left,left_hand,22,45,contra,C4,-2.205831608785971,physionet_exec
+physionet,S043,execution,healthy,right,right_hand,23,45,ipsi,C4,-1.8971459473477026,physionet_exec
+physionet,S043,execution,healthy,right,right_hand,23,45,contra,C3,-2.4168837233042773,physionet_exec
+physionet,S044,execution,healthy,left,left_hand,23,45,ipsi,C3,-1.4108754894640363,physionet_exec
+physionet,S044,execution,healthy,left,left_hand,23,45,contra,C4,-1.5449520758534518,physionet_exec
+physionet,S044,execution,healthy,right,right_hand,22,45,ipsi,C4,-0.39510926311960404,physionet_exec
+physionet,S044,execution,healthy,right,right_hand,22,45,contra,C3,-1.276235649131472,physionet_exec
+physionet,S045,execution,healthy,left,left_hand,22,45,ipsi,C3,-2.1621879581751458,physionet_exec
+physionet,S045,execution,healthy,left,left_hand,22,45,contra,C4,-2.5564282695025042,physionet_exec
+physionet,S045,execution,healthy,right,right_hand,23,45,ipsi,C4,-1.8276459841879422,physionet_exec
+physionet,S045,execution,healthy,right,right_hand,23,45,contra,C3,-2.4134303619105246,physionet_exec
+physionet,S046,execution,healthy,left,left_hand,21,45,ipsi,C3,-0.6030408885854222,physionet_exec
+physionet,S046,execution,healthy,left,left_hand,21,45,contra,C4,-1.506256546206206,physionet_exec
+physionet,S046,execution,healthy,right,right_hand,23,45,ipsi,C4,-0.8165771013629808,physionet_exec
+physionet,S046,execution,healthy,right,right_hand,23,45,contra,C3,0.8892320202968129,physionet_exec
+physionet,S047,execution,healthy,left,left_hand,23,45,ipsi,C3,-1.1851407037821637,physionet_exec
+physionet,S047,execution,healthy,left,left_hand,23,45,contra,C4,-1.7178334068488788,physionet_exec
+physionet,S047,execution,healthy,right,right_hand,22,45,ipsi,C4,-1.780255581871124,physionet_exec
+physionet,S047,execution,healthy,right,right_hand,22,45,contra,C3,-1.9352330374228899,physionet_exec
+physionet,S048,execution,healthy,left,left_hand,22,45,ipsi,C3,-3.5421414259066353,physionet_exec
+physionet,S048,execution,healthy,left,left_hand,22,45,contra,C4,-2.4496518113074472,physionet_exec
+physionet,S048,execution,healthy,right,right_hand,23,45,ipsi,C4,-1.943562783940056,physionet_exec
+physionet,S048,execution,healthy,right,right_hand,23,45,contra,C3,-2.6657199144317545,physionet_exec
+physionet,S049,execution,healthy,left,left_hand,22,45,ipsi,C3,-1.4243242112070575,physionet_exec
+physionet,S049,execution,healthy,left,left_hand,22,45,contra,C4,-2.847292532242882,physionet_exec
+physionet,S049,execution,healthy,right,right_hand,23,45,ipsi,C4,-1.169519522079021,physionet_exec
+physionet,S049,execution,healthy,right,right_hand,23,45,contra,C3,-2.9390827124738017,physionet_exec
+physionet,S050,execution,healthy,left,left_hand,24,45,ipsi,C3,-1.4711569624936693,physionet_exec
+physionet,S050,execution,healthy,left,left_hand,24,45,contra,C4,-1.4220431921718912,physionet_exec
+physionet,S050,execution,healthy,right,right_hand,21,45,ipsi,C4,-1.1683826165720035,physionet_exec
+physionet,S050,execution,healthy,right,right_hand,21,45,contra,C3,-1.0240921518770385,physionet_exec
+physionet,S001,imagery,healthy,left,left_hand,23,45,ipsi,C3,-1.0259299783619724,physionet_imag
+physionet,S001,imagery,healthy,left,left_hand,23,45,contra,C4,-0.8136739761341083,physionet_imag
+physionet,S001,imagery,healthy,right,right_hand,22,45,ipsi,C4,-0.5038431308634905,physionet_imag
+physionet,S001,imagery,healthy,right,right_hand,22,45,contra,C3,-1.5723336007394018,physionet_imag
+physionet,S002,imagery,healthy,left,left_hand,23,45,ipsi,C3,0.42781540184991584,physionet_imag
+physionet,S002,imagery,healthy,left,left_hand,23,45,contra,C4,-0.02920064984957449,physionet_imag
+physionet,S002,imagery,healthy,right,right_hand,22,45,ipsi,C4,0.5914344892408074,physionet_imag
+physionet,S002,imagery,healthy,right,right_hand,22,45,contra,C3,-1.164271345560568,physionet_imag
+physionet,S003,imagery,healthy,left,left_hand,23,45,ipsi,C3,-0.008659229040706151,physionet_imag
+physionet,S003,imagery,healthy,left,left_hand,23,45,contra,C4,0.9650763063531009,physionet_imag
+physionet,S003,imagery,healthy,right,right_hand,22,45,ipsi,C4,0.8679305287959771,physionet_imag
+physionet,S003,imagery,healthy,right,right_hand,22,45,contra,C3,0.6298447484479652,physionet_imag
+physionet,S004,imagery,healthy,left,left_hand,23,45,ipsi,C3,-1.9892608038380288,physionet_imag
+physionet,S004,imagery,healthy,left,left_hand,23,45,contra,C4,-1.2687498715825818,physionet_imag
+physionet,S004,imagery,healthy,right,right_hand,22,45,ipsi,C4,-0.732513287727361,physionet_imag
+physionet,S004,imagery,healthy,right,right_hand,22,45,contra,C3,-3.42895411588902,physionet_imag
+physionet,S005,imagery,healthy,left,left_hand,21,44,ipsi,C3,-1.323649810016878,physionet_imag
+physionet,S005,imagery,healthy,left,left_hand,21,44,contra,C4,-1.1430824657644756,physionet_imag
+physionet,S005,imagery,healthy,right,right_hand,22,44,ipsi,C4,-0.7190980353899334,physionet_imag
+physionet,S005,imagery,healthy,right,right_hand,22,44,contra,C3,-0.8491027636699755,physionet_imag
+physionet,S006,imagery,healthy,left,left_hand,24,45,ipsi,C3,-0.41106385034639814,physionet_imag
+physionet,S006,imagery,healthy,left,left_hand,24,45,contra,C4,-0.6734346761994914,physionet_imag
+physionet,S006,imagery,healthy,right,right_hand,21,45,ipsi,C4,-0.2721328054844818,physionet_imag
+physionet,S006,imagery,healthy,right,right_hand,21,45,contra,C3,-0.0188601584006598,physionet_imag
+physionet,S007,imagery,healthy,left,left_hand,23,45,ipsi,C3,-1.3643640238683297,physionet_imag
+physionet,S007,imagery,healthy,left,left_hand,23,45,contra,C4,-2.2976316229760307,physionet_imag
+physionet,S007,imagery,healthy,right,right_hand,22,45,ipsi,C4,-0.22012405098603693,physionet_imag
+physionet,S007,imagery,healthy,right,right_hand,22,45,contra,C3,-2.8648509346308693,physionet_imag
+physionet,S008,imagery,healthy,left,left_hand,22,44,ipsi,C3,-0.7562063415573661,physionet_imag
+physionet,S008,imagery,healthy,left,left_hand,22,44,contra,C4,-0.7861899564682062,physionet_imag
+physionet,S008,imagery,healthy,right,right_hand,23,44,ipsi,C4,0.1980384326763307,physionet_imag
+physionet,S008,imagery,healthy,right,right_hand,23,44,contra,C3,-0.7616831228786936,physionet_imag
+physionet,S009,imagery,healthy,left,left_hand,24,45,ipsi,C3,-0.7298207735391493,physionet_imag
+physionet,S009,imagery,healthy,left,left_hand,24,45,contra,C4,-0.2946889795186891,physionet_imag
+physionet,S009,imagery,healthy,right,right_hand,21,45,ipsi,C4,-0.15355610464364844,physionet_imag
+physionet,S009,imagery,healthy,right,right_hand,21,45,contra,C3,-0.39672162728640714,physionet_imag
+physionet,S010,imagery,healthy,left,left_hand,24,45,ipsi,C3,-0.4443985990470978,physionet_imag
+physionet,S010,imagery,healthy,left,left_hand,24,45,contra,C4,-1.6278854440081325,physionet_imag
+physionet,S010,imagery,healthy,right,right_hand,21,45,ipsi,C4,-0.1651682556545886,physionet_imag
+physionet,S010,imagery,healthy,right,right_hand,21,45,contra,C3,-0.46712944964456327,physionet_imag
+physionet,S011,imagery,healthy,left,left_hand,23,45,ipsi,C3,-0.7812169503812783,physionet_imag
+physionet,S011,imagery,healthy,left,left_hand,23,45,contra,C4,-1.089453899464825,physionet_imag
+physionet,S011,imagery,healthy,right,right_hand,22,45,ipsi,C4,-1.2650703220352888,physionet_imag
+physionet,S011,imagery,healthy,right,right_hand,22,45,contra,C3,-0.9041550728763603,physionet_imag
+physionet,S012,imagery,healthy,left,left_hand,21,45,ipsi,C3,0.08886779274703827,physionet_imag
+physionet,S012,imagery,healthy,left,left_hand,21,45,contra,C4,-0.6773868248057369,physionet_imag
+physionet,S012,imagery,healthy,right,right_hand,24,45,ipsi,C4,-0.47744107824666315,physionet_imag
+physionet,S012,imagery,healthy,right,right_hand,24,45,contra,C3,-0.5333312303180726,physionet_imag
+physionet,S013,imagery,healthy,left,left_hand,23,45,ipsi,C3,-0.2321268126708631,physionet_imag
+physionet,S013,imagery,healthy,left,left_hand,23,45,contra,C4,-1.8572408799969686,physionet_imag
+physionet,S013,imagery,healthy,right,right_hand,22,45,ipsi,C4,-1.2933703161991517,physionet_imag
+physionet,S013,imagery,healthy,right,right_hand,22,45,contra,C3,-2.0871644068504303,physionet_imag
+physionet,S014,imagery,healthy,left,left_hand,22,45,ipsi,C3,-0.9854960846701744,physionet_imag
+physionet,S014,imagery,healthy,left,left_hand,22,45,contra,C4,-0.559102095338293,physionet_imag
+physionet,S014,imagery,healthy,right,right_hand,23,45,ipsi,C4,-0.7225699604127911,physionet_imag
+physionet,S014,imagery,healthy,right,right_hand,23,45,contra,C3,-0.48583466988958435,physionet_imag
+physionet,S015,imagery,healthy,left,left_hand,23,45,ipsi,C3,-0.9787482010961845,physionet_imag
+physionet,S015,imagery,healthy,left,left_hand,23,45,contra,C4,-2.3977995036597655,physionet_imag
+physionet,S015,imagery,healthy,right,right_hand,22,45,ipsi,C4,-1.5976753401828603,physionet_imag
+physionet,S015,imagery,healthy,right,right_hand,22,45,contra,C3,-1.7326279744636075,physionet_imag
+physionet,S016,imagery,healthy,left,left_hand,22,45,ipsi,C3,-0.9771381329374584,physionet_imag
+physionet,S016,imagery,healthy,left,left_hand,22,45,contra,C4,-1.3377744237001998,physionet_imag
+physionet,S016,imagery,healthy,right,right_hand,23,45,ipsi,C4,-1.372495061804404,physionet_imag
+physionet,S016,imagery,healthy,right,right_hand,23,45,contra,C3,-1.401290137388198,physionet_imag
+physionet,S017,imagery,healthy,left,left_hand,23,45,ipsi,C3,-0.5015743664721484,physionet_imag
+physionet,S017,imagery,healthy,left,left_hand,23,45,contra,C4,-0.5493244198678227,physionet_imag
+physionet,S017,imagery,healthy,right,right_hand,22,45,ipsi,C4,-0.5951590300220921,physionet_imag
+physionet,S017,imagery,healthy,right,right_hand,22,45,contra,C3,-1.2407481683611188,physionet_imag
+physionet,S018,imagery,healthy,left,left_hand,22,45,ipsi,C3,-0.19429786697086726,physionet_imag
+physionet,S018,imagery,healthy,left,left_hand,22,45,contra,C4,-0.28341662655709143,physionet_imag
+physionet,S018,imagery,healthy,right,right_hand,23,45,ipsi,C4,-0.34861342162265885,physionet_imag
+physionet,S018,imagery,healthy,right,right_hand,23,45,contra,C3,-0.5330756826513827,physionet_imag
+physionet,S019,imagery,healthy,left,left_hand,23,42,ipsi,C3,-0.2346759863076464,physionet_imag
+physionet,S019,imagery,healthy,left,left_hand,23,42,contra,C4,-1.0595616466183522,physionet_imag
+physionet,S019,imagery,healthy,right,right_hand,22,42,ipsi,C4,0.42538813944123177,physionet_imag
+physionet,S019,imagery,healthy,right,right_hand,22,42,contra,C3,-0.966941598444393,physionet_imag
+physionet,S020,imagery,healthy,left,left_hand,23,45,ipsi,C3,-1.4043809446660482,physionet_imag
+physionet,S020,imagery,healthy,left,left_hand,23,45,contra,C4,-2.114378251322364,physionet_imag
+physionet,S020,imagery,healthy,right,right_hand,22,45,ipsi,C4,-2.450476324017874,physionet_imag
+physionet,S020,imagery,healthy,right,right_hand,22,45,contra,C3,-2.2204278771793184,physionet_imag
+physionet,S021,imagery,healthy,left,left_hand,24,45,ipsi,C3,-1.3791714775404174,physionet_imag
+physionet,S021,imagery,healthy,left,left_hand,24,45,contra,C4,-2.1732329432526853,physionet_imag
+physionet,S021,imagery,healthy,right,right_hand,21,45,ipsi,C4,-1.6177359383198642,physionet_imag
+physionet,S021,imagery,healthy,right,right_hand,21,45,contra,C3,-1.725177591826128,physionet_imag
+physionet,S022,imagery,healthy,left,left_hand,22,45,ipsi,C3,-0.07779765530882443,physionet_imag
+physionet,S022,imagery,healthy,left,left_hand,22,45,contra,C4,-0.2499415913369596,physionet_imag
+physionet,S022,imagery,healthy,right,right_hand,23,45,ipsi,C4,-0.34428663131672366,physionet_imag
+physionet,S022,imagery,healthy,right,right_hand,23,45,contra,C3,-0.7336095503331741,physionet_imag
+physionet,S023,imagery,healthy,left,left_hand,22,45,ipsi,C3,-2.8737946079017007,physionet_imag
+physionet,S023,imagery,healthy,left,left_hand,22,45,contra,C4,-3.177430519166915,physionet_imag
+physionet,S023,imagery,healthy,right,right_hand,23,45,ipsi,C4,-1.2458329114147482,physionet_imag
+physionet,S023,imagery,healthy,right,right_hand,23,45,contra,C3,-1.976823193896795,physionet_imag
+physionet,S024,imagery,healthy,left,left_hand,22,45,ipsi,C3,-0.12992735518183807,physionet_imag
+physionet,S024,imagery,healthy,left,left_hand,22,45,contra,C4,-0.44887514844818455,physionet_imag
+physionet,S024,imagery,healthy,right,right_hand,23,45,ipsi,C4,0.14292776851389632,physionet_imag
+physionet,S024,imagery,healthy,right,right_hand,23,45,contra,C3,-0.2956076630195348,physionet_imag
+physionet,S025,imagery,healthy,left,left_hand,22,45,ipsi,C3,-1.5480992179197095,physionet_imag
+physionet,S025,imagery,healthy,left,left_hand,22,45,contra,C4,-1.7891666751008728,physionet_imag
+physionet,S025,imagery,healthy,right,right_hand,23,45,ipsi,C4,-1.7527423666718,physionet_imag
+physionet,S025,imagery,healthy,right,right_hand,23,45,contra,C3,-2.3372636051732343,physionet_imag
+physionet,S026,imagery,healthy,left,left_hand,24,45,ipsi,C3,-0.3709706586889183,physionet_imag
+physionet,S026,imagery,healthy,left,left_hand,24,45,contra,C4,-0.7860574900860051,physionet_imag
+physionet,S026,imagery,healthy,right,right_hand,21,45,ipsi,C4,-0.6052976149720735,physionet_imag
+physionet,S026,imagery,healthy,right,right_hand,21,45,contra,C3,-0.8598854411413548,physionet_imag
+physionet,S027,imagery,healthy,left,left_hand,23,45,ipsi,C3,-2.2826069903578805,physionet_imag
+physionet,S027,imagery,healthy,left,left_hand,23,45,contra,C4,-2.225953894455266,physionet_imag
+physionet,S027,imagery,healthy,right,right_hand,22,45,ipsi,C4,-1.520533391250165,physionet_imag
+physionet,S027,imagery,healthy,right,right_hand,22,45,contra,C3,-2.4645790567568504,physionet_imag
+physionet,S028,imagery,healthy,left,left_hand,22,44,ipsi,C3,-2.7083672352526733,physionet_imag
+physionet,S028,imagery,healthy,left,left_hand,22,44,contra,C4,-1.950561644974762,physionet_imag
+physionet,S028,imagery,healthy,right,right_hand,23,44,ipsi,C4,-1.2102044222277364,physionet_imag
+physionet,S028,imagery,healthy,right,right_hand,23,44,contra,C3,-2.3571122315035353,physionet_imag
+physionet,S029,imagery,healthy,left,left_hand,23,45,ipsi,C3,-0.6406966282601445,physionet_imag
+physionet,S029,imagery,healthy,left,left_hand,23,45,contra,C4,-3.804842680778755,physionet_imag
+physionet,S029,imagery,healthy,right,right_hand,22,45,ipsi,C4,-0.6986175916334503,physionet_imag
+physionet,S029,imagery,healthy,right,right_hand,22,45,contra,C3,-2.120634603240852,physionet_imag
+physionet,S030,imagery,healthy,left,left_hand,24,45,ipsi,C3,-1.5285292166735864,physionet_imag
+physionet,S030,imagery,healthy,left,left_hand,24,45,contra,C4,-0.4944355979900905,physionet_imag
+physionet,S030,imagery,healthy,right,right_hand,21,45,ipsi,C4,-0.6829998518654179,physionet_imag
+physionet,S030,imagery,healthy,right,right_hand,21,45,contra,C3,-1.2659058091941944,physionet_imag
+physionet,S031,imagery,healthy,left,left_hand,22,45,ipsi,C3,-0.7743514966968057,physionet_imag
+physionet,S031,imagery,healthy,left,left_hand,22,45,contra,C4,-0.44777323924494183,physionet_imag
+physionet,S031,imagery,healthy,right,right_hand,23,45,ipsi,C4,0.7071612031870878,physionet_imag
+physionet,S031,imagery,healthy,right,right_hand,23,45,contra,C3,-2.0761886453562006,physionet_imag
+physionet,S032,imagery,healthy,left,left_hand,21,45,ipsi,C3,-3.2192130280399667,physionet_imag
+physionet,S032,imagery,healthy,left,left_hand,21,45,contra,C4,-3.2070934582476873,physionet_imag
+physionet,S032,imagery,healthy,right,right_hand,24,45,ipsi,C4,-2.0230771700788175,physionet_imag
+physionet,S032,imagery,healthy,right,right_hand,24,45,contra,C3,-3.4081860917803297,physionet_imag
+physionet,S033,imagery,healthy,left,left_hand,23,45,ipsi,C3,-3.4268058450407146,physionet_imag
+physionet,S033,imagery,healthy,left,left_hand,23,45,contra,C4,-5.077953791682823,physionet_imag
+physionet,S033,imagery,healthy,right,right_hand,22,45,ipsi,C4,-2.9700827428518117,physionet_imag
+physionet,S033,imagery,healthy,right,right_hand,22,45,contra,C3,-5.941718181923914,physionet_imag
+physionet,S034,imagery,healthy,left,left_hand,21,45,ipsi,C3,-5.5283446751729315,physionet_imag
+physionet,S034,imagery,healthy,left,left_hand,21,45,contra,C4,-5.259572915467459,physionet_imag
+physionet,S034,imagery,healthy,right,right_hand,24,45,ipsi,C4,-2.3231964910327108,physionet_imag
+physionet,S034,imagery,healthy,right,right_hand,24,45,contra,C3,-4.530608247255028,physionet_imag
+physionet,S035,imagery,healthy,left,left_hand,22,45,ipsi,C3,-2.6810000625835606,physionet_imag
+physionet,S035,imagery,healthy,left,left_hand,22,45,contra,C4,-2.1022419908033108,physionet_imag
+physionet,S035,imagery,healthy,right,right_hand,23,45,ipsi,C4,-2.107023035254514,physionet_imag
+physionet,S035,imagery,healthy,right,right_hand,23,45,contra,C3,-2.326408365131609,physionet_imag
+physionet,S036,imagery,healthy,left,left_hand,23,45,ipsi,C3,-1.9354651510886889,physionet_imag
+physionet,S036,imagery,healthy,left,left_hand,23,45,contra,C4,-1.3698091321937156,physionet_imag
+physionet,S036,imagery,healthy,right,right_hand,22,45,ipsi,C4,-1.3662007590263414,physionet_imag
+physionet,S036,imagery,healthy,right,right_hand,22,45,contra,C3,-1.878355101994984,physionet_imag
+physionet,S037,imagery,healthy,left,left_hand,23,45,ipsi,C3,0.42966859976651506,physionet_imag
+physionet,S037,imagery,healthy,left,left_hand,23,45,contra,C4,0.6763880840408021,physionet_imag
+physionet,S037,imagery,healthy,right,right_hand,22,45,ipsi,C4,0.5599282515816562,physionet_imag
+physionet,S037,imagery,healthy,right,right_hand,22,45,contra,C3,0.3224441288387858,physionet_imag
+physionet,S039,imagery,healthy,left,left_hand,23,45,ipsi,C3,-0.8237310797458264,physionet_imag
+physionet,S039,imagery,healthy,left,left_hand,23,45,contra,C4,-0.35624878446181896,physionet_imag
+physionet,S039,imagery,healthy,right,right_hand,22,45,ipsi,C4,-0.25575813930336366,physionet_imag
+physionet,S039,imagery,healthy,right,right_hand,22,45,contra,C3,-1.818864178877746,physionet_imag
+physionet,S040,imagery,healthy,left,left_hand,21,45,ipsi,C3,-0.28095838983828614,physionet_imag
+physionet,S040,imagery,healthy,left,left_hand,21,45,contra,C4,-0.28444509811878405,physionet_imag
+physionet,S040,imagery,healthy,right,right_hand,24,45,ipsi,C4,-0.3545824941603293,physionet_imag
+physionet,S040,imagery,healthy,right,right_hand,24,45,contra,C3,-0.6346713449049091,physionet_imag
+physionet,S041,imagery,healthy,left,left_hand,24,45,ipsi,C3,-0.9713588619685254,physionet_imag
+physionet,S041,imagery,healthy,left,left_hand,24,45,contra,C4,-1.2910268019895632,physionet_imag
+physionet,S041,imagery,healthy,right,right_hand,21,45,ipsi,C4,-1.4255177571742017,physionet_imag
+physionet,S041,imagery,healthy,right,right_hand,21,45,contra,C3,-2.13706874149711,physionet_imag
+physionet,S042,imagery,healthy,left,left_hand,22,45,ipsi,C3,1.0525151696105972,physionet_imag
+physionet,S042,imagery,healthy,left,left_hand,22,45,contra,C4,-3.602334615794689,physionet_imag
+physionet,S042,imagery,healthy,right,right_hand,23,45,ipsi,C4,-1.6461312268484463,physionet_imag
+physionet,S042,imagery,healthy,right,right_hand,23,45,contra,C3,-2.9001229419895402,physionet_imag
+physionet,S043,imagery,healthy,left,left_hand,22,45,ipsi,C3,-1.5978941635080268,physionet_imag
+physionet,S043,imagery,healthy,left,left_hand,22,45,contra,C4,-1.564496122539616,physionet_imag
+physionet,S043,imagery,healthy,right,right_hand,22,45,ipsi,C4,-0.7960641768358379,physionet_imag
+physionet,S043,imagery,healthy,right,right_hand,22,45,contra,C3,-2.594168695411554,physionet_imag
+physionet,S044,imagery,healthy,left,left_hand,22,45,ipsi,C3,-1.1499623856351349,physionet_imag
+physionet,S044,imagery,healthy,left,left_hand,22,45,contra,C4,-1.4524658993437356,physionet_imag
+physionet,S044,imagery,healthy,right,right_hand,23,45,ipsi,C4,-1.5154982618114232,physionet_imag
+physionet,S044,imagery,healthy,right,right_hand,23,45,contra,C3,-2.274611066335499,physionet_imag
+physionet,S045,imagery,healthy,left,left_hand,23,44,ipsi,C3,-1.2177768176354675,physionet_imag
+physionet,S045,imagery,healthy,left,left_hand,23,44,contra,C4,-2.068154299543359,physionet_imag
+physionet,S045,imagery,healthy,right,right_hand,22,44,ipsi,C4,-1.4628880132187128,physionet_imag
+physionet,S045,imagery,healthy,right,right_hand,22,44,contra,C3,-1.3117525968189625,physionet_imag
+physionet,S046,imagery,healthy,left,left_hand,23,45,ipsi,C3,-0.2882544592275238,physionet_imag
+physionet,S046,imagery,healthy,left,left_hand,23,45,contra,C4,-0.7244265988224008,physionet_imag
+physionet,S046,imagery,healthy,right,right_hand,22,45,ipsi,C4,-0.520478139377829,physionet_imag
+physionet,S046,imagery,healthy,right,right_hand,22,45,contra,C3,-0.45993974373940816,physionet_imag
+physionet,S047,imagery,healthy,left,left_hand,24,45,ipsi,C3,0.47722404055626555,physionet_imag
+physionet,S047,imagery,healthy,left,left_hand,24,45,contra,C4,-0.0841066037641447,physionet_imag
+physionet,S047,imagery,healthy,right,right_hand,21,45,ipsi,C4,-0.5716546909338938,physionet_imag
+physionet,S047,imagery,healthy,right,right_hand,21,45,contra,C3,0.23746512017957855,physionet_imag
+physionet,S048,imagery,healthy,left,left_hand,22,45,ipsi,C3,-2.800653373122639,physionet_imag
+physionet,S048,imagery,healthy,left,left_hand,22,45,contra,C4,-2.536999511559941,physionet_imag
+physionet,S048,imagery,healthy,right,right_hand,23,45,ipsi,C4,-2.4444659082227993,physionet_imag
+physionet,S048,imagery,healthy,right,right_hand,23,45,contra,C3,-4.301744131756138,physionet_imag
+physionet,S049,imagery,healthy,left,left_hand,23,45,ipsi,C3,-0.7808428813594048,physionet_imag
+physionet,S049,imagery,healthy,left,left_hand,23,45,contra,C4,-2.1169476941811816,physionet_imag
+physionet,S049,imagery,healthy,right,right_hand,22,45,ipsi,C4,-1.3775206094220493,physionet_imag
+physionet,S049,imagery,healthy,right,right_hand,22,45,contra,C3,-2.827141176194612,physionet_imag
+physionet,S050,imagery,healthy,left,left_hand,23,45,ipsi,C3,-0.7041366306012797,physionet_imag
+physionet,S050,imagery,healthy,left,left_hand,23,45,contra,C4,-0.3304698123374372,physionet_imag
+physionet,S050,imagery,healthy,right,right_hand,22,45,ipsi,C4,0.30708270152091544,physionet_imag
+physionet,S050,imagery,healthy,right,right_hand,22,45,contra,C3,-0.13369007434093305,physionet_imag
+liu2024,01,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-0.23108014226846052,liu2024
+liu2024,01,imagery,acute stroke,left,unaffected,20,20,contra,C4,-0.7854729880212474,liu2024
+liu2024,01,imagery,acute stroke,right,affected,20,20,ipsi,C4,-0.6304107211237664,liu2024
+liu2024,01,imagery,acute stroke,right,affected,20,20,contra,C3,-0.8590110128771755,liu2024
+liu2024,02,imagery,acute stroke,left,affected,20,20,ipsi,C3,-2.1162985708777526,liu2024
+liu2024,02,imagery,acute stroke,left,affected,20,20,contra,C4,-1.0147143086458854,liu2024
+liu2024,02,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,0.15043242013819125,liu2024
+liu2024,02,imagery,acute stroke,right,unaffected,20,20,contra,C3,-0.7111075125790656,liu2024
+liu2024,03,imagery,acute stroke,left,affected,20,20,ipsi,C3,-1.0270373855835047,liu2024
+liu2024,03,imagery,acute stroke,left,affected,20,20,contra,C4,-1.658373123555279,liu2024
+liu2024,03,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-0.30223113128199586,liu2024
+liu2024,03,imagery,acute stroke,right,unaffected,20,20,contra,C3,-1.589121423262192,liu2024
+liu2024,04,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-0.8794063681591346,liu2024
+liu2024,04,imagery,acute stroke,left,unaffected,20,20,contra,C4,-1.3716060410118125,liu2024
+liu2024,04,imagery,acute stroke,right,affected,20,20,ipsi,C4,-0.1477446449797526,liu2024
+liu2024,04,imagery,acute stroke,right,affected,20,20,contra,C3,-0.19238720212044313,liu2024
+liu2024,06,imagery,acute stroke,left,affected,16,16,ipsi,C3,-0.6873650295635692,liu2024
+liu2024,06,imagery,acute stroke,left,affected,16,16,contra,C4,0.6749505412652113,liu2024
+liu2024,06,imagery,acute stroke,right,unaffected,18,18,ipsi,C4,-0.3897527468730466,liu2024
+liu2024,06,imagery,acute stroke,right,unaffected,18,18,contra,C3,-1.096641172098689,liu2024
+liu2024,07,imagery,acute stroke,left,unaffected,19,19,ipsi,C3,-0.7302145646426439,liu2024
+liu2024,07,imagery,acute stroke,left,unaffected,19,19,contra,C4,-1.2040058978630341,liu2024
+liu2024,07,imagery,acute stroke,right,affected,20,20,ipsi,C4,-2.4216039569109427,liu2024
+liu2024,07,imagery,acute stroke,right,affected,20,20,contra,C3,-3.434990109404854,liu2024
+liu2024,08,imagery,acute stroke,left,affected,20,20,ipsi,C3,-0.5390360829171215,liu2024
+liu2024,08,imagery,acute stroke,left,affected,20,20,contra,C4,-0.44470044160444644,liu2024
+liu2024,08,imagery,acute stroke,right,unaffected,19,19,ipsi,C4,-1.2516044836105245,liu2024
+liu2024,08,imagery,acute stroke,right,unaffected,19,19,contra,C3,-0.3668522440976929,liu2024
+liu2024,09,imagery,acute stroke,left,unaffected,19,19,ipsi,C3,-1.689122768657434,liu2024
+liu2024,09,imagery,acute stroke,left,unaffected,19,19,contra,C4,-1.73902105728315,liu2024
+liu2024,09,imagery,acute stroke,right,affected,20,20,ipsi,C4,-1.0221458725342814,liu2024
+liu2024,09,imagery,acute stroke,right,affected,20,20,contra,C3,-1.4270491657075013,liu2024
+liu2024,10,imagery,acute stroke,left,affected,20,20,ipsi,C3,-1.7210193709617982,liu2024
+liu2024,10,imagery,acute stroke,left,affected,20,20,contra,C4,-1.2049623985624613,liu2024
+liu2024,10,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-2.1343268872868393,liu2024
+liu2024,10,imagery,acute stroke,right,unaffected,20,20,contra,C3,-1.142076642826968,liu2024
+liu2024,11,imagery,acute stroke,left,affected,19,19,ipsi,C3,-1.2370558073043192,liu2024
+liu2024,11,imagery,acute stroke,left,affected,19,19,contra,C4,-1.5671077310940973,liu2024
+liu2024,11,imagery,acute stroke,right,unaffected,19,19,ipsi,C4,-0.9756471341311901,liu2024
+liu2024,11,imagery,acute stroke,right,unaffected,19,19,contra,C3,-0.930521016073449,liu2024
+liu2024,12,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-0.4282365501237706,liu2024
+liu2024,12,imagery,acute stroke,left,unaffected,20,20,contra,C4,-0.5986307410507408,liu2024
+liu2024,12,imagery,acute stroke,right,affected,20,20,ipsi,C4,-1.1573913041877404,liu2024
+liu2024,12,imagery,acute stroke,right,affected,20,20,contra,C3,-0.5881069564238395,liu2024
+liu2024,13,imagery,acute stroke,left,unaffected,19,19,ipsi,C3,-2.967247016405512,liu2024
+liu2024,13,imagery,acute stroke,left,unaffected,19,19,contra,C4,-3.1518524311606377,liu2024
+liu2024,13,imagery,acute stroke,right,affected,20,20,ipsi,C4,-2.56223140879003,liu2024
+liu2024,13,imagery,acute stroke,right,affected,20,20,contra,C3,-2.8777221734913283,liu2024
+liu2024,14,imagery,acute stroke,left,unaffected,18,18,ipsi,C3,-0.19382700352414517,liu2024
+liu2024,14,imagery,acute stroke,left,unaffected,18,18,contra,C4,-1.055369893196989,liu2024
+liu2024,14,imagery,acute stroke,right,affected,20,20,ipsi,C4,-0.8464536075839213,liu2024
+liu2024,14,imagery,acute stroke,right,affected,20,20,contra,C3,-0.5590584220097661,liu2024
+liu2024,16,imagery,acute stroke,left,unaffected,16,16,ipsi,C3,-0.43762504431729354,liu2024
+liu2024,16,imagery,acute stroke,left,unaffected,16,16,contra,C4,-0.17123075877925942,liu2024
+liu2024,16,imagery,acute stroke,right,affected,17,17,ipsi,C4,-0.23576501789015936,liu2024
+liu2024,16,imagery,acute stroke,right,affected,17,17,contra,C3,-0.7586946088572688,liu2024
+liu2024,17,imagery,acute stroke,left,affected,20,20,ipsi,C3,-1.0812823026432739,liu2024
+liu2024,17,imagery,acute stroke,left,affected,20,20,contra,C4,-1.4177603228900715,liu2024
+liu2024,17,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-1.368338680307133,liu2024
+liu2024,17,imagery,acute stroke,right,unaffected,20,20,contra,C3,-0.7937025432976164,liu2024
+liu2024,18,imagery,acute stroke,left,affected,20,20,ipsi,C3,-1.505172562160375,liu2024
+liu2024,18,imagery,acute stroke,left,affected,20,20,contra,C4,-0.7108024345937203,liu2024
+liu2024,18,imagery,acute stroke,right,unaffected,19,19,ipsi,C4,-0.8555895499886645,liu2024
+liu2024,18,imagery,acute stroke,right,unaffected,19,19,contra,C3,-2.1589789586835195,liu2024
+liu2024,19,imagery,acute stroke,left,affected,18,18,ipsi,C3,-2.776039145425333,liu2024
+liu2024,19,imagery,acute stroke,left,affected,18,18,contra,C4,-2.7977122106906194,liu2024
+liu2024,19,imagery,acute stroke,right,unaffected,18,18,ipsi,C4,-2.12566403937986,liu2024
+liu2024,19,imagery,acute stroke,right,unaffected,18,18,contra,C3,-1.8768311336700627,liu2024
+liu2024,20,imagery,acute stroke,left,unaffected,18,18,ipsi,C3,-1.9021156582573262,liu2024
+liu2024,20,imagery,acute stroke,left,unaffected,18,18,contra,C4,-3.304559563780085,liu2024
+liu2024,20,imagery,acute stroke,right,affected,19,19,ipsi,C4,-2.1944756817099353,liu2024
+liu2024,20,imagery,acute stroke,right,affected,19,19,contra,C3,-2.648884861663081,liu2024
+liu2024,21,imagery,acute stroke,left,affected,19,19,ipsi,C3,-1.5249800145963377,liu2024
+liu2024,21,imagery,acute stroke,left,affected,19,19,contra,C4,-1.5379731074092717,liu2024
+liu2024,21,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-1.3978887799456174,liu2024
+liu2024,21,imagery,acute stroke,right,unaffected,20,20,contra,C3,-1.332703185489379,liu2024
+liu2024,22,imagery,acute stroke,left,affected,20,20,ipsi,C3,-1.130244689701474,liu2024
+liu2024,22,imagery,acute stroke,left,affected,20,20,contra,C4,-2.501378192960857,liu2024
+liu2024,22,imagery,acute stroke,right,unaffected,18,18,ipsi,C4,-0.5121010046028474,liu2024
+liu2024,22,imagery,acute stroke,right,unaffected,18,18,contra,C3,-2.384734316076358,liu2024
+liu2024,23,imagery,acute stroke,left,affected,20,20,ipsi,C3,-0.8263225526943074,liu2024
+liu2024,23,imagery,acute stroke,left,affected,20,20,contra,C4,-0.8674326864226956,liu2024
+liu2024,23,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-1.8883700321076446,liu2024
+liu2024,23,imagery,acute stroke,right,unaffected,20,20,contra,C3,-1.551165510022443,liu2024
+liu2024,24,imagery,acute stroke,left,unaffected,16,16,ipsi,C3,-0.4514982243036947,liu2024
+liu2024,24,imagery,acute stroke,left,unaffected,16,16,contra,C4,0.25941436280294994,liu2024
+liu2024,24,imagery,acute stroke,right,affected,19,19,ipsi,C4,-0.47726929383957284,liu2024
+liu2024,24,imagery,acute stroke,right,affected,19,19,contra,C3,-0.11510289748080993,liu2024
+liu2024,25,imagery,acute stroke,left,affected,18,18,ipsi,C3,1.7437202046332168,liu2024
+liu2024,25,imagery,acute stroke,left,affected,18,18,contra,C4,0.1121250433774712,liu2024
+liu2024,25,imagery,acute stroke,right,unaffected,17,17,ipsi,C4,-1.441572628384833,liu2024
+liu2024,25,imagery,acute stroke,right,unaffected,17,17,contra,C3,1.078464728073385,liu2024
+liu2024,26,imagery,acute stroke,left,affected,20,20,ipsi,C3,0.009582193022552588,liu2024
+liu2024,26,imagery,acute stroke,left,affected,20,20,contra,C4,0.3673085207528004,liu2024
+liu2024,26,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-0.3065614572831876,liu2024
+liu2024,26,imagery,acute stroke,right,unaffected,20,20,contra,C3,-0.18552877907991316,liu2024
+liu2024,27,imagery,acute stroke,left,unaffected,18,18,ipsi,C3,-0.20513843580292956,liu2024
+liu2024,27,imagery,acute stroke,left,unaffected,18,18,contra,C4,-0.15475446959449357,liu2024
+liu2024,27,imagery,acute stroke,right,affected,19,19,ipsi,C4,-0.9229059297103959,liu2024
+liu2024,27,imagery,acute stroke,right,affected,19,19,contra,C3,-1.6371919235522725,liu2024
+liu2024,28,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-0.41507196469925844,liu2024
+liu2024,28,imagery,acute stroke,left,unaffected,20,20,contra,C4,0.21421102766353783,liu2024
+liu2024,28,imagery,acute stroke,right,affected,20,20,ipsi,C4,-0.8531861765980864,liu2024
+liu2024,28,imagery,acute stroke,right,affected,20,20,contra,C3,-1.2818585350603406,liu2024
+liu2024,29,imagery,acute stroke,left,unaffected,19,19,ipsi,C3,-1.46396604550727,liu2024
+liu2024,29,imagery,acute stroke,left,unaffected,19,19,contra,C4,-1.182507411804572,liu2024
+liu2024,29,imagery,acute stroke,right,affected,18,18,ipsi,C4,-1.660025366123552,liu2024
+liu2024,29,imagery,acute stroke,right,affected,18,18,contra,C3,-1.1151517246653952,liu2024
+liu2024,30,imagery,acute stroke,left,affected,19,19,ipsi,C3,-3.0245897746152117,liu2024
+liu2024,30,imagery,acute stroke,left,affected,19,19,contra,C4,-2.420994207205709,liu2024
+liu2024,30,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-2.6468015983317628,liu2024
+liu2024,30,imagery,acute stroke,right,unaffected,20,20,contra,C3,-2.3524665205330386,liu2024
+liu2024,31,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-2.023415427806743,liu2024
+liu2024,31,imagery,acute stroke,left,unaffected,20,20,contra,C4,-1.8318776054746344,liu2024
+liu2024,31,imagery,acute stroke,right,affected,20,20,ipsi,C4,-1.2764446803160112,liu2024
+liu2024,31,imagery,acute stroke,right,affected,20,20,contra,C3,-1.7773289092867728,liu2024
+liu2024,32,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-0.8983795399122307,liu2024
+liu2024,32,imagery,acute stroke,left,unaffected,20,20,contra,C4,-0.1600792710985921,liu2024
+liu2024,32,imagery,acute stroke,right,affected,20,20,ipsi,C4,-0.852592762983928,liu2024
+liu2024,32,imagery,acute stroke,right,affected,20,20,contra,C3,-0.6641904977618296,liu2024
+liu2024,33,imagery,acute stroke,left,unaffected,15,15,ipsi,C3,-1.435189176929974,liu2024
+liu2024,33,imagery,acute stroke,left,unaffected,15,15,contra,C4,-1.3063388707234935,liu2024
+liu2024,33,imagery,acute stroke,right,affected,14,14,ipsi,C4,-1.520632267119666,liu2024
+liu2024,33,imagery,acute stroke,right,affected,14,14,contra,C3,-1.1648842598804166,liu2024
+liu2024,34,imagery,acute stroke,left,affected,19,19,ipsi,C3,-0.6353787566331803,liu2024
+liu2024,34,imagery,acute stroke,left,affected,19,19,contra,C4,-0.6997975743430729,liu2024
+liu2024,34,imagery,acute stroke,right,unaffected,19,19,ipsi,C4,-0.05430533226451928,liu2024
+liu2024,34,imagery,acute stroke,right,unaffected,19,19,contra,C3,-0.2790326178847913,liu2024
+liu2024,35,imagery,acute stroke,left,affected,20,20,ipsi,C3,-0.13120132567260967,liu2024
+liu2024,35,imagery,acute stroke,left,affected,20,20,contra,C4,0.02611066785295435,liu2024
+liu2024,35,imagery,acute stroke,right,unaffected,19,19,ipsi,C4,0.5346899810912653,liu2024
+liu2024,35,imagery,acute stroke,right,unaffected,19,19,contra,C3,0.16215103289608734,liu2024
+liu2024,36,imagery,acute stroke,left,affected,19,19,ipsi,C3,-1.618214830804181,liu2024
+liu2024,36,imagery,acute stroke,left,affected,19,19,contra,C4,-0.6241580577996864,liu2024
+liu2024,36,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-1.4464139576955226,liu2024
+liu2024,36,imagery,acute stroke,right,unaffected,20,20,contra,C3,-0.6883444743662004,liu2024
+liu2024,37,imagery,acute stroke,left,affected,19,19,ipsi,C3,-0.6652423848721689,liu2024
+liu2024,37,imagery,acute stroke,left,affected,19,19,contra,C4,0.3947169194264255,liu2024
+liu2024,37,imagery,acute stroke,right,unaffected,17,17,ipsi,C4,0.6842208497459268,liu2024
+liu2024,37,imagery,acute stroke,right,unaffected,17,17,contra,C3,-0.34636647272423104,liu2024
+liu2024,38,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-1.9268880895683438,liu2024
+liu2024,38,imagery,acute stroke,left,unaffected,20,20,contra,C4,-1.4953362203910459,liu2024
+liu2024,38,imagery,acute stroke,right,affected,19,19,ipsi,C4,-0.7430283590403697,liu2024
+liu2024,38,imagery,acute stroke,right,affected,19,19,contra,C3,-0.8817377494671952,liu2024
+liu2024,39,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-1.368041535947917,liu2024
+liu2024,39,imagery,acute stroke,left,unaffected,20,20,contra,C4,-1.2658221489903099,liu2024
+liu2024,39,imagery,acute stroke,right,affected,19,19,ipsi,C4,1.1122069469142737,liu2024
+liu2024,39,imagery,acute stroke,right,affected,19,19,contra,C3,1.4011690691530276,liu2024
+liu2024,40,imagery,acute stroke,left,affected,17,17,ipsi,C3,-2.690495014560703,liu2024
+liu2024,40,imagery,acute stroke,left,affected,17,17,contra,C4,-0.025985995074453427,liu2024
+liu2024,40,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-2.1506042520726787,liu2024
+liu2024,40,imagery,acute stroke,right,unaffected,20,20,contra,C3,-3.909954546188299,liu2024
+liu2024,41,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-0.00565747446950482,liu2024
+liu2024,41,imagery,acute stroke,left,unaffected,20,20,contra,C4,0.46929453682917455,liu2024
+liu2024,41,imagery,acute stroke,right,affected,20,20,ipsi,C4,-0.33279386506421815,liu2024
+liu2024,41,imagery,acute stroke,right,affected,20,20,contra,C3,-0.02189906283861731,liu2024
+liu2024,42,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-2.312187492257074,liu2024
+liu2024,42,imagery,acute stroke,left,unaffected,20,20,contra,C4,-2.7109846360078826,liu2024
+liu2024,42,imagery,acute stroke,right,affected,20,20,ipsi,C4,-1.2464399387875424,liu2024
+liu2024,42,imagery,acute stroke,right,affected,20,20,contra,C3,-0.5893038002139406,liu2024
+liu2024,43,imagery,acute stroke,left,affected,19,19,ipsi,C3,-1.6731237307572933,liu2024
+liu2024,43,imagery,acute stroke,left,affected,19,19,contra,C4,-1.1189087081216975,liu2024
+liu2024,43,imagery,acute stroke,right,unaffected,18,18,ipsi,C4,-0.20848511108910728,liu2024
+liu2024,43,imagery,acute stroke,right,unaffected,18,18,contra,C3,-0.4969002373153586,liu2024
+liu2024,44,imagery,acute stroke,left,affected,20,20,ipsi,C3,-1.2895815586581705,liu2024
+liu2024,44,imagery,acute stroke,left,affected,20,20,contra,C4,-0.65016950178439,liu2024
+liu2024,44,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-0.40406761846574213,liu2024
+liu2024,44,imagery,acute stroke,right,unaffected,20,20,contra,C3,-0.03630521240623352,liu2024
+liu2024,45,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-1.0132445632914688,liu2024
+liu2024,45,imagery,acute stroke,left,unaffected,20,20,contra,C4,-0.14052623521900287,liu2024
+liu2024,45,imagery,acute stroke,right,affected,20,20,ipsi,C4,-0.7716693122655194,liu2024
+liu2024,45,imagery,acute stroke,right,affected,20,20,contra,C3,-0.9293276489476909,liu2024
+liu2024,46,imagery,acute stroke,left,unaffected,20,20,ipsi,C3,-1.9457116572196043,liu2024
+liu2024,46,imagery,acute stroke,left,unaffected,20,20,contra,C4,-1.7514512729258414,liu2024
+liu2024,46,imagery,acute stroke,right,affected,20,20,ipsi,C4,-1.2643501367388765,liu2024
+liu2024,46,imagery,acute stroke,right,affected,20,20,contra,C3,-2.2638144940863647,liu2024
+liu2024,47,imagery,acute stroke,left,affected,19,19,ipsi,C3,-1.7826699243394017,liu2024
+liu2024,47,imagery,acute stroke,left,affected,19,19,contra,C4,-1.4107587416320655,liu2024
+liu2024,47,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-0.4334371484701194,liu2024
+liu2024,47,imagery,acute stroke,right,unaffected,20,20,contra,C3,-1.190712562718641,liu2024
+liu2024,48,imagery,acute stroke,left,affected,20,20,ipsi,C3,0.04898480005756767,liu2024
+liu2024,48,imagery,acute stroke,left,affected,20,20,contra,C4,-0.5185850941877668,liu2024
+liu2024,48,imagery,acute stroke,right,unaffected,18,18,ipsi,C4,-0.5753717948080705,liu2024
+liu2024,48,imagery,acute stroke,right,unaffected,18,18,contra,C3,0.6339148979726517,liu2024
+liu2024,50,imagery,acute stroke,left,affected,20,20,ipsi,C3,-2.0456759422292947,liu2024
+liu2024,50,imagery,acute stroke,left,affected,20,20,contra,C4,-1.9253987649378423,liu2024
+liu2024,50,imagery,acute stroke,right,unaffected,20,20,ipsi,C4,-5.116628938683849,liu2024
+liu2024,50,imagery,acute stroke,right,unaffected,20,20,contra,C3,-3.1378958342012275,liu2024

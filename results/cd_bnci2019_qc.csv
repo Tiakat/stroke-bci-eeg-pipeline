@@ -1,0 +1,10 @@
+dataset,subject,task,population,n_bad,slope,dataset_key
+bnci2019,P01,attempt,cervical SCI,5,-0.813373366454159,bnci2019
+bnci2019,P02,attempt,cervical SCI,1,-0.7301734321242069,bnci2019
+bnci2019,P03,attempt,cervical SCI,1,-1.2690001615771005,bnci2019
+bnci2019,P04,attempt,cervical SCI,4,-0.0023549344039038495,bnci2019
+bnci2019,P05,attempt,cervical SCI,0,0.10970611996394439,bnci2019
+bnci2019,P06,attempt,cervical SCI,2,-0.9923506564908653,bnci2019
+bnci2019,P07,attempt,cervical SCI,2,-1.2677279043037044,bnci2019
+bnci2019,P08,attempt,cervical SCI,2,-0.7176445373040725,bnci2019
+bnci2019,P09,attempt,cervical SCI,1,-0.820849893736033,bnci2019

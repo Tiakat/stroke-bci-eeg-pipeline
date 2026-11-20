@@ -1,0 +1,19 @@
+dataset,subject,task,population,hand,role,n_move,n_rest,hemisphere,electrode,erd_db,dataset_key
+bnci2019,P01,attempt,cervical SCI,right,right_hand,214,214,ipsi,C4,-2.310147578070012,bnci2019
+bnci2019,P01,attempt,cervical SCI,right,right_hand,214,214,contra,C3,-1.8725473278547966,bnci2019
+bnci2019,P02,attempt,cervical SCI,right,right_hand,216,216,ipsi,C4,-2.201066048363689,bnci2019
+bnci2019,P02,attempt,cervical SCI,right,right_hand,216,216,contra,C3,-2.4399876698210754,bnci2019
+bnci2019,P03,attempt,cervical SCI,right,right_hand,216,216,ipsi,C4,-1.5942056620859724,bnci2019
+bnci2019,P03,attempt,cervical SCI,right,right_hand,216,216,contra,C3,-0.989606719215832,bnci2019
+bnci2019,P04,attempt,cervical SCI,right,right_hand,204,204,ipsi,C4,-0.9910413528912798,bnci2019
+bnci2019,P04,attempt,cervical SCI,right,right_hand,204,204,contra,C3,-1.749491273240995,bnci2019
+bnci2019,P05,attempt,cervical SCI,right,right_hand,186,186,ipsi,C4,1.0785426190420466,bnci2019
+bnci2019,P05,attempt,cervical SCI,right,right_hand,186,186,contra,C3,0.26577865365577935,bnci2019
+bnci2019,P06,attempt,cervical SCI,right,right_hand,182,182,ipsi,C4,-1.535655536093774,bnci2019
+bnci2019,P06,attempt,cervical SCI,right,right_hand,182,182,contra,C3,-2.22361298622614,bnci2019
+bnci2019,P07,attempt,cervical SCI,left,left_hand,216,216,ipsi,C3,-0.7187429508530485,bnci2019
+bnci2019,P07,attempt,cervical SCI,left,left_hand,216,216,contra,C4,-2.517350334562636,bnci2019
+bnci2019,P08,attempt,cervical SCI,right,right_hand,216,216,ipsi,C4,-0.1469426710961308,bnci2019
+bnci2019,P08,attempt,cervical SCI,right,right_hand,216,216,contra,C3,-0.6984375076208238,bnci2019
+bnci2019,P09,attempt,cervical SCI,right,right_hand,215,215,ipsi,C4,-0.6636070449378906,bnci2019
+bnci2019,P09,attempt,cervical SCI,right,right_hand,215,215,contra,C3,-0.8323596118181875,bnci2019

@@ -1,0 +1,15 @@
+mne>=1.8
+mne-connectivity>=0.7
+moabb>=1.1
+numpy>=1.26
+scipy>=1.11
+pandas>=2.1
+scikit-learn>=1.4
+pyriemann>=0.6
+fooof>=1.1
+matplotlib>=3.8
+joblib>=1.3
+torch>=2.2          # EEGNet only (notebook 04); CPU build is enough
+jupyter
+nbformat
+nbconvert
